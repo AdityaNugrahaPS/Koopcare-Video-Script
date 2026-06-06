@@ -165,6 +165,8 @@ Pilih jumlah pinjaman.
 
 Lalu... ajukan.
 
+AI akan mempertimbangkan apakah kamu layak, atau belum layak untuk mendapatkan pinjaman.
+
 <br>
 
 > **VISUAL**
